@@ -67,4 +67,29 @@ power efficient. Άρα o Xeon δεν μπορεί να είναι πιο energy
 ## Βήμα 2
 
 Στα παρακάτω γραφήματα βλέπουμε το EDP (Energy-Delay-Product) που υπολογίζεται ως το γινόμενο Energy(j) * Delay(s) για τις διάφορες μορφοποιήσεις του συστήματος προσομοίωσής μας που είχαμε κάνει στο δεύτερο εργαστήριο σε λογαριθμική κλίμακα ώστε να φαίνονται όλα στο ίδιο διάγραμμα.
+![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure1.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure2.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure3.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure4.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure5.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure6.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure7.jpg)
+  
+  
+Επίσης, στα παρακάτω γραφήματα βλέπουμε πως αλλαγές στις παραμέτρους αυτές αλλάζουν τα Area, Runtime Dynamic, Subthreshold Leakage και Gate Leakage.  
 
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/area.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/gateL.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/subL.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/dyn.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/pCL2.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/pAll.png)
+
+όπου έχουμε:
+
+value/testvar| 1 | 2 | 3
+---|---|---|---
+cacheline|32b|64b|128b
+L1d/i (size)|32kb|64kb|128kb
+L2 (size)|512kb|1024kb|4096kb
+L1d/i/2 assoc|1|2|4
