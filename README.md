@@ -148,3 +148,4 @@ L1d/i/2 assoc|1|2|4
 2. [Processor power dissipation - Wikipedia](https://en.wikipedia.org/wiki/Processor_power_dissipation)
 3. [Dynamic voltage scaling - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_voltage_scaling)
 4. [Dynamic frequency scaling - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_frequency_scaling)
+5. [Introduction to McPAT](https://www.hpl.hp.com/research/mcpat/micro09.pdf)
