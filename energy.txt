@@ -1,0 +1,531 @@
+Reading simulation time from: MCPAT_cacheline32_specbzip.txt
+Reading simulation time from: specbzip32_cache_line/stats.txt
+leakage: 0.845989 W, dynamic: 0.161899 W and runtime: 0.092340 sec
+energy is 93.068378 mJ
+
+Reading simulation time from: MCPAT_cacheline32_speclibm.txt
+Reading simulation time from: speclibm32_cache_line/stats.txt
+leakage: 0.845989 W, dynamic: 0.077060 W and runtime: 0.280326 sec
+energy is 258.754606 mJ
+
+Reading simulation time from: MCPAT_cacheline32_specmcf.txt
+Reading simulation time from: specmcf32_cache_line/stats.txt
+leakage: 0.845989 W, dynamic: 0.199021 W and runtime: 0.062291 sec
+energy is 65.094718 mJ
+
+Reading simulation time from: MCPAT_cacheline32_spechmmer.txt
+Reading simulation time from: spechmmer_cache_line32/stats.txt
+leakage: 0.845989 W, dynamic: 0.212033 W and runtime: 0.059840 sec
+energy is 63.312036 mJ
+
+Reading simulation time from: MCPAT_cacheline32_specsjeng.txt
+Reading simulation time from: specsjeng32_cache_line/stats.txt
+leakage: 0.845989 W, dynamic: 0.058905 W and runtime: 0.882729 sec
+energy is 798.776352 mJ
+
+Reading simulation time from: MCPAT_cacheline64_specbzip.txt
+Reading simulation time from: specbzip64_cache_line/stats.txt
+leakage: 1.153270 W, dynamic: 0.328345 W and runtime: 0.083654 sec
+energy is 123.943021 mJ
+
+Reading simulation time from: MCPAT_cacheline64_speclibm.txt
+Reading simulation time from: speclibm64_cache_line/stats.txt
+leakage: 1.153270 W, dynamic: 0.178489 W and runtime: 0.174763 sec
+energy is 232.742198 mJ
+
+Reading simulation time from: MCPAT_cacheline64_specmcf.txt
+Reading simulation time from: specmcf64_cache_line/stats.txt
+leakage: 1.153270 W, dynamic: 0.340039 W and runtime: 0.062553 sec
+energy is 93.410958 mJ
+
+Reading simulation time from: MCPAT_cacheline64_spechmmer.txt
+Reading simulation time from: spechmmer_cache_line64/stats.txt
+leakage: 1.153270 W, dynamic: 0.384237 W and runtime: 0.059390 sec
+energy is 91.312541 mJ
+
+Reading simulation time from: MCPAT_cacheline64_specsjeng.txt
+Reading simulation time from: specsjeng64_cache_line/stats.txt
+leakage: 1.153270 W, dynamic: 0.129601 W and runtime: 0.513823 sec
+energy is 659.168626 mJ
+
+Reading simulation time from: MCPAT_cacheline128_specbzip.txt
+Reading simulation time from: specbzip128_cache_line/stats.txt
+leakage: 1.253290 W, dynamic: 0.585623 W and runtime: 0.082823 sec
+energy is 152.304291 mJ
+
+Reading simulation time from: MCPAT_cacheline128_speclibm.txt
+Reading simulation time from: speclibm128_cache_line/stats.txt
+leakage: 1.253290 W, dynamic: 0.376523 W and runtime: 0.129077 sec
+energy is 210.371373 mJ
+
+Reading simulation time from: MCPAT_cacheline128_specmcf.txt
+Reading simulation time from: specmcf128_cache_line/stats.txt
+leakage: 1.253290 W, dynamic: 0.598976 W and runtime: 0.062447 sec
+energy is 115.668455 mJ
+
+Reading simulation time from: MCPAT_cacheline128_spechmmer.txt
+Reading simulation time from: spechmmer_cache_line128/stats.txt
+leakage: 1.253290 W, dynamic: 0.614355 W and runtime: 0.059090 sec
+energy is 110.359143 mJ
+
+Reading simulation time from: MCPAT_cacheline128_specsjeng.txt
+Reading simulation time from: specsjeng128_cache_line/stats.txt
+leakage: 1.253290 W, dynamic: 0.308426 W and runtime: 0.340289 sec
+energy is 531.434776 mJ
+
+##################################################################################
+Reading simulation time from: MCPAT_l1d32_specbzip.txt
+Reading simulation time from: specbzip32_l1d/stats.txt
+leakage: 0.748383 W, dynamic: 0.122095 W and runtime: 0.085354 sec
+energy is 74.298779 mJ
+
+Reading simulation time from: MCPAT_l1d32_speclibm.txt
+Reading simulation time from: speclibm32_l1d/stats.txt
+leakage: 0.748383 W, dynamic: 0.079043 W and runtime: 0.174763 sec
+energy is 144.603485 mJ
+
+Reading simulation time from: MCPAT_l1d32_specmcf.txt
+Reading simulation time from: specmcf32_l1d/stats.txt
+leakage: 0.748383 W, dynamic: 0.147367 W and runtime: 0.062649 sec
+energy is 56.117842 mJ
+
+Reading simulation time from: MCPAT_l1d32_spechmmer.txt
+Reading simulation time from: spechmmer_dcache32/stats.txt
+leakage: 0.748383 W, dynamic: 0.138555 W and runtime: 0.059472 sec
+energy is 52.747977 mJ
+
+Reading simulation time from: MCPAT_l1d32_specsjeng.txt
+Reading simulation time from: specsjeng32_l1d/stats.txt
+leakage: 0.748383 W, dynamic: 0.064025 W and runtime: 0.516601 sec
+energy is 419.690682 mJ
+
+Reading simulation time from: MCPAT_l1d64_specbzip.txt
+Reading simulation time from: specbzip64_l1d/stats.txt
+leakage: 1.153270 W, dynamic: 0.328345 W and runtime: 0.083654 sec
+energy is 123.943021 mJ
+
+Reading simulation time from: MCPAT_l1d64_speclibm.txt
+Reading simulation time from: speclibm64_l1d/stats.txt
+leakage: 1.153270 W, dynamic: 0.178489 W and runtime: 0.174763 sec
+energy is 232.742198 mJ
+
+Reading simulation time from: MCPAT_l1d64_specmcf.txt
+Reading simulation time from: specmcf64_l1d/stats.txt
+leakage: 1.153270 W, dynamic: 0.340039 W and runtime: 0.062553 sec
+energy is 93.410958 mJ
+
+Reading simulation time from: MCPAT_l1d64_spechmmer.txt
+Reading simulation time from: spechmmer_dcache64/stats.txt
+leakage: 1.153270 W, dynamic: 0.384237 W and runtime: 0.059390 sec
+energy is 91.312541 mJ
+
+Reading simulation time from: MCPAT_l1d64_specsjeng.txt
+Reading simulation time from: specsjeng64_l1d/stats.txt
+leakage: 1.153270 W, dynamic: 0.129601 W and runtime: 0.513823 sec
+energy is 659.168626 mJ
+
+Reading simulation time from: MCPAT_l1d128_specbzip.txt
+Reading simulation time from: specbzip128_l1d/stats.txt
+leakage: 1.438890 W, dynamic: 0.422336 W and runtime: 0.082241 sec
+energy is 153.069087 mJ
+
+Reading simulation time from: MCPAT_l1d128_speclibm.txt
+Reading simulation time from: speclibm128_l1d/stats.txt
+leakage: 1.438890 W, dynamic: 0.222453 W and runtime: 0.174763 sec
+energy is 290.341287 mJ
+
+Reading simulation time from: MCPAT_l1d128_specmcf.txt
+Reading simulation time from: specmcf128_l1d/stats.txt
+leakage: 1.438890 W, dynamic: 0.426118 W and runtime: 0.062521 sec
+energy is 116.602165 mJ
+
+Reading simulation time from: MCPAT_l1d128_spechmmer.txt
+Reading simulation time from: spechmmer_dcache128/stats.txt
+leakage: 1.438890 W, dynamic: 0.490119 W and runtime: 0.059295 sec
+energy is 114.380589 mJ
+
+Reading simulation time from: MCPAT_l1d128_specsjeng.txt
+Reading simulation time from: specsjeng128_l1d/stats.txt
+leakage: 1.438890 W, dynamic: 0.160484 W and runtime: 0.513834 sec
+energy is 821.812740 mJ
+
+##################################################################################
+Reading simulation time from: MCPAT_l1i32_specbzip.txt
+Reading simulation time from: specbzip32_l1i/stats.txt
+leakage: 1.153270 W, dynamic: 0.328345 W and runtime: 0.083654 sec
+energy is 123.943021 mJ
+
+Reading simulation time from: MCPAT_l1i32_speclibm.txt
+Reading simulation time from: speclibm32_l1i/stats.txt
+leakage: 1.153270 W, dynamic: 0.180047 W and runtime: 0.017289 sec
+energy is 23.051718 mJ
+
+Reading simulation time from: MCPAT_l1i32_specmcf.txt
+Reading simulation time from: specmcf32_l1i/stats.txt
+leakage: 1.153270 W, dynamic: 0.340039 W and runtime: 0.062553 sec
+energy is 93.410958 mJ
+
+Reading simulation time from: MCPAT_l1i32_spechmmer.txt
+Reading simulation time from: spechmmer_icache32/stats.txt
+leakage: 1.153270 W, dynamic: 0.384237 W and runtime: 0.059390 sec
+energy is 91.312541 mJ
+
+Reading simulation time from: MCPAT_l1i32_specsjeng.txt
+Reading simulation time from: specsjeng32_l1i/stats.txt
+leakage: 1.153270 W, dynamic: 0.129601 W and runtime: 0.513823 sec
+energy is 659.168626 mJ
+
+Reading simulation time from: MCPAT_l1i64_specbzip.txt
+Reading simulation time from: specbzip64_l1i/stats.txt
+leakage: 1.558160 W, dynamic: 0.328307 W and runtime: 0.083665 sec
+energy is 157.831262 mJ
+
+Reading simulation time from: MCPAT_l1i64_speclibm.txt
+Reading simulation time from: speclibm64_l1i/stats.txt
+leakage: 1.558160 W, dynamic: 0.180049 W and runtime: 0.017289 sec
+energy is 30.051895 mJ
+
+Reading simulation time from: MCPAT_l1i64_specmcf.txt
+Reading simulation time from: specmcf64_l1i/stats.txt
+leakage: 1.558160 W, dynamic: 0.352974 W and runtime: 0.057334 sec
+energy is 109.572957 mJ
+
+Reading simulation time from: MCPAT_l1i64_spechmmer.txt
+Reading simulation time from: spechmmer_icache64/stats.txt
+leakage: 1.558160 W, dynamic: 0.384268 W and runtime: 0.059376 sec
+energy is 115.333605 mJ
+
+Reading simulation time from: MCPAT_l1i64_specsjeng.txt
+Reading simulation time from: specsjeng64_l1i/stats.txt
+leakage: 1.558160 W, dynamic: 0.129602 W and runtime: 0.513817 sec
+energy is 867.200808 mJ
+
+Reading simulation time from: MCPAT_l1i128_specbzip.txt
+Reading simulation time from: specbzip128_l1i/stats.txt
+leakage: 1.843780 W, dynamic: 0.328289 W and runtime: 0.083670 sec
+energy is 181.737013 mJ
+
+Reading simulation time from: MCPAT_l1i128_speclibm.txt
+Reading simulation time from: speclibm128_l1i/stats.txt
+leakage: 1.843780 W, dynamic: 0.180050 W and runtime: 0.017289 sec
+energy is 34.989997 mJ
+
+Reading simulation time from: MCPAT_l1i128_specmcf.txt
+Reading simulation time from: specmcf128_l1i/stats.txt
+leakage: 1.843780 W, dynamic: 0.352975 W and runtime: 0.057334 sec
+energy is 125.948751 mJ
+
+Reading simulation time from: MCPAT_l1i128_spechmmer.txt
+Reading simulation time from: spechmmer_icache128/stats.txt
+leakage: 1.843780 W, dynamic: 0.384263 W and runtime: 0.059376 sec
+energy is 132.292281 mJ
+
+Reading simulation time from: MCPAT_l1i128_specsjeng.txt
+Reading simulation time from: specsjeng128_l1i/stats.txt
+leakage: 1.843780 W, dynamic: 0.129603 W and runtime: 0.513816 sec
+energy is 1013.955760 mJ
+
+##################################################################################
+Reading simulation time from: MCPAT_l2_512_specbzip.txt
+Reading simulation time from: specbzip512_l2/stats.txt
+leakage: 1.149660 W, dynamic: 0.308043 W and runtime: 0.087783 sec
+energy is 127.961542 mJ
+
+Reading simulation time from: MCPAT_l2_512_speclibm.txt
+Reading simulation time from: speclibm512_l2/stats.txt
+leakage: 1.149660 W, dynamic: 0.174424 W and runtime: 0.174919 sec
+energy is 231.607449 mJ
+
+Reading simulation time from: MCPAT_l2_512_specmcf.txt
+Reading simulation time from: specmcf512_l2/stats.txt
+leakage: 1.149660 W, dynamic: 0.329684 W and runtime: 0.063063 sec
+energy is 93.291871 mJ
+
+Reading simulation time from: MCPAT_l2_512_spechmmer.txt
+Reading simulation time from: spechmmer_l2_512/stats.txt
+leakage: 1.149660 W, dynamic: 0.383269 W and runtime: 0.059390 sec
+energy is 91.040653 mJ
+
+Reading simulation time from: MCPAT_l2_512_specsjeng.txt
+Reading simulation time from: specsjeng512_l2/stats.txt
+leakage: 1.149660 W, dynamic: 0.124857 W and runtime: 0.513890 sec
+energy is 654.961541 mJ
+
+Reading simulation time from: MCPAT_l2_1024_specbzip.txt
+Reading simulation time from: specbzip1024_l2/stats.txt
+leakage: 1.151160 W, dynamic: 0.319254 W and runtime: 0.085158 sec
+energy is 125.217515 mJ
+
+Reading simulation time from: MCPAT_l2_1024_speclibm.txt
+Reading simulation time from: speclibm1024_l2/stats.txt
+leakage: 1.151160 W, dynamic: 0.175658 W and runtime: 0.175257 sec
+energy is 232.534142 mJ
+
+Reading simulation time from: MCPAT_l2_1024_specmcf.txt
+Reading simulation time from: specmcf1024_l2/stats.txt
+leakage: 1.151160 W, dynamic: 0.334126 W and runtime: 0.062781 sec
+energy is 93.247740 mJ
+
+Reading simulation time from: MCPAT_l2_1024_spechmmer.txt
+Reading simulation time from: spechmmer_l2_1024/stats.txt
+leakage: 1.151160 W, dynamic: 0.383648 W and runtime: 0.059390 sec
+energy is 91.152247 mJ
+
+Reading simulation time from: MCPAT_l2_1024_specsjeng.txt
+Reading simulation time from: specsjeng1024_l2/stats.txt
+leakage: 1.151160 W, dynamic: 0.126685 W and runtime: 0.513978 sec
+energy is 656.784217 mJ
+
+Reading simulation time from: MCPAT_l2_4096_specbzip.txt
+Reading simulation time from: specbzip4096_l2/stats.txt
+leakage: 1.158180 W, dynamic: 0.338188 W and runtime: 0.082304 sec
+energy is 123.157072 mJ
+
+Reading simulation time from: MCPAT_l2_4096_speclibm.txt
+Reading simulation time from: speclibm4096_l2/stats.txt
+leakage: 1.158180 W, dynamic: 0.181059 W and runtime: 0.174932 sec
+energy is 234.275757 mJ
+
+Reading simulation time from: MCPAT_l2_4096_specmcf.txt
+Reading simulation time from: specmcf4096_l2/stats.txt
+leakage: 1.158180 W, dynamic: 0.345645 W and runtime: 0.062527 sec
+energy is 94.029666 mJ
+
+Reading simulation time from: MCPAT_l2_4096_spechmmer.txt
+Reading simulation time from: spechmmer_l2_4096/stats.txt
+leakage: 1.158180 W, dynamic: 0.384920 W and runtime: 0.059390 sec
+energy is 91.644709 mJ
+
+Reading simulation time from: MCPAT_l2_4096_specsjeng.txt
+Reading simulation time from: specsjeng4096_l2/stats.txt
+leakage: 1.158180 W, dynamic: 0.132948 W and runtime: 0.513507 sec
+energy is 663.003266 mJ
+
+##################################################################################
+Reading simulation time from: MCPAT_l1d_assoc1_specbzip.txt
+Reading simulation time from: specbzip1_l1d_assoc/stats.txt
+leakage: 1.151030 W, dynamic: 0.326503 W and runtime: 0.084598 sec
+energy is 124.996337 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc1_speclibm.txt
+Reading simulation time from: speclibm1_l1d_assoc/stats.txt
+leakage: 1.151030 W, dynamic: 0.177542 W and runtime: 0.175529 sec
+energy is 233.202915 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc1_specmcf.txt
+Reading simulation time from: specmcf1_l1d_assoc/stats.txt
+leakage: 1.151030 W, dynamic: 0.338601 W and runtime: 0.062737 sec
+energy is 93.454980 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc1_spechmmer.txt
+Reading simulation time from: spechmmer_dcache_assoc1/stats.txt
+leakage: 1.151030 W, dynamic: 0.378909 W and runtime: 0.060427 sec
+energy is 92.449624 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc1_specsjeng.txt
+Reading simulation time from: specsjeng1_l1d_assoc/stats.txt
+leakage: 1.151030 W, dynamic: 0.129236 W and runtime: 0.513878 sec
+energy is 657.900532 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc2_specbzip.txt
+Reading simulation time from: specbzip2_l1d_assoc/stats.txt
+leakage: 1.153270 W, dynamic: 0.328345 W and runtime: 0.083654 sec
+energy is 123.943021 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc2_speclibm.txt
+Reading simulation time from: speclibm2_l1d_assoc/stats.txt
+leakage: 1.153270 W, dynamic: 0.178489 W and runtime: 0.174763 sec
+energy is 232.742198 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc2_specmcf.txt
+Reading simulation time from: specmcf2_l1d_assoc/stats.txt
+leakage: 1.153270 W, dynamic: 0.340039 W and runtime: 0.062553 sec
+energy is 93.410958 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc2_spechmmer.txt
+Reading simulation time from: spechmmer_dcache_assoc2/stats.txt
+leakage: 1.153270 W, dynamic: 0.384239 W and runtime: 0.059390 sec
+energy is 91.312660 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc2_specsjeng.txt
+Reading simulation time from: specsjeng2_l1d_assoc/stats.txt
+leakage: 1.153270 W, dynamic: 0.129601 W and runtime: 0.513823 sec
+energy is 659.168626 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc4_specbzip.txt
+Reading simulation time from: specbzip4_l1d_assoc/stats.txt
+leakage: 0.878176 W, dynamic: 0.327360 W and runtime: 0.083228 sec
+energy is 100.334350 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc4_speclibm.txt
+Reading simulation time from: speclibm4_l1d_assoc/stats.txt
+leakage: 0.878176 W, dynamic: 0.179686 W and runtime: 0.174763 sec
+energy is 184.875137 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc4_specmcf.txt
+Reading simulation time from: specmcf4_l1d_assoc/stats.txt
+leakage: 0.878176 W, dynamic: 0.345613 W and runtime: 0.062537 sec
+energy is 76.532093 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc4_spechmmer.txt
+Reading simulation time from: spechmmer_dcache_assoc4/stats.txt
+leakage: 0.878176 W, dynamic: 0.379517 W and runtime: 0.059370 sec
+energy is 74.669233 mJ
+
+Reading simulation time from: MCPAT_l1d_assoc4_specsjeng.txt
+Reading simulation time from: specsjeng4_l1d_assoc/stats.txt
+leakage: 0.878176 W, dynamic: 0.138339 W and runtime: 0.513825 sec
+energy is 522.310820 mJ
+
+##################################################################################
+Reading simulation time from: MCPAT_l1i_assoc1_specbzip.txt
+Reading simulation time from: specbzip1l1i_assoc/stats.txt
+leakage: 1.152940 W, dynamic: 0.328285 W and runtime: 0.083671 sec
+energy is 123.935577 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc1_speclibm.txt
+Reading simulation time from: speclibm1l1i_assoc/stats.txt
+leakage: 1.152940 W, dynamic: 0.178143 W and runtime: 0.175151 sec
+energy is 233.140519 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc1_specmcf.txt
+Reading simulation time from: specmcf1l1i_assoc/stats.txt
+leakage: 1.152940 W, dynamic: 0.332558 W and runtime: 0.066927 sec
+energy is 99.419925 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc1_spechmmer.txt
+Reading simulation time from: spechmmer_icache_assoc1/stats.txt
+leakage: 1.152940 W, dynamic: 0.363394 W and runtime: 0.065845 sec
+energy is 99.843012 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc1_specsjeng.txt
+Reading simulation time from: specsjeng1l1i_assoc/stats.txt
+leakage: 1.152940 W, dynamic: 0.129577 W and runtime: 0.513939 sec
+energy is 659.135504 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc2_specbzip.txt
+Reading simulation time from: specbzip2l1i_assoc/stats.txt
+leakage: 1.153270 W, dynamic: 0.328345 W and runtime: 0.083654 sec
+energy is 123.943021 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc2_speclibm.txt
+Reading simulation time from: speclibm2l1i_assoc/stats.txt
+leakage: 1.153270 W, dynamic: 0.178489 W and runtime: 0.174763 sec
+energy is 232.742198 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc2_specmcf.txt
+Reading simulation time from: specmcf2l1i_assoc/stats.txt
+leakage: 1.153270 W, dynamic: 0.340039 W and runtime: 0.062553 sec
+energy is 93.410958 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc2_spechmmer.txt
+Reading simulation time from: spechmmer_icache_assoc2/stats.txt
+leakage: 1.153270 W, dynamic: 0.384237 W and runtime: 0.059390 sec
+energy is 91.312541 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc2_specsjeng.txt
+Reading simulation time from: specsjeng2l1i_assoc/stats.txt
+leakage: 1.153270 W, dynamic: 0.129601 W and runtime: 0.513823 sec
+energy is 659.168626 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc4_specbzip.txt
+Reading simulation time from: specbzip4l1i_assoc/stats.txt
+leakage: 1.232520 W, dynamic: 0.328326 W and runtime: 0.083660 sec
+energy is 130.580376 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc4_speclibm.txt
+Reading simulation time from: speclibm4l1i_assoc/stats.txt
+leakage: 1.232520 W, dynamic: 0.178489 W and runtime: 0.174763 sec
+energy is 246.592166 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc4_specmcf.txt
+Reading simulation time from: specmcf4l1i_assoc/stats.txt
+leakage: 1.232520 W, dynamic: 0.352976 W and runtime: 0.057334 sec
+energy is 90.902828 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc4_spechmmer.txt
+Reading simulation time from: spechmmer_icache_assoc4/stats.txt
+leakage: 1.232520 W, dynamic: 0.384262 W and runtime: 0.059382 sec
+energy is 96.007749 mJ
+
+Reading simulation time from: MCPAT_l1i_assoc4_specsjeng.txt
+Reading simulation time from: specsjeng4l1i_assoc/stats.txt
+leakage: 1.232520 W, dynamic: 0.129600 W and runtime: 0.513831 sec
+energy is 699.899482 mJ
+
+##################################################################################
+Reading simulation time from: MCPAT_l2assoc1_specbzip.txt
+Reading simulation time from: specbzip1_l2_assoc/stats.txt
+leakage: 1.153140 W, dynamic: 0.324219 W and runtime: 0.084676 sec
+energy is 125.096851 mJ
+
+Reading simulation time from: MCPAT_l2assoc1_speclibm.txt
+Reading simulation time from: speclibm1_l2_assoc/stats.txt
+leakage: 1.153140 W, dynamic: 0.178184 W and runtime: 0.174763 sec
+energy is 232.666176 mJ
+
+Reading simulation time from: MCPAT_l2assoc1_specmcf.txt
+Reading simulation time from: specmcf1_l2_assoc/stats.txt
+leakage: 1.153140 W, dynamic: 0.339737 W and runtime: 0.062577 sec
+energy is 93.419764 mJ
+
+Reading simulation time from: MCPAT_l2assoc1_spechmmer.txt
+Reading simulation time from: spechmmer_l2_assoc1/stats.txt
+leakage: 1.153140 W, dynamic: 0.384198 W and runtime: 0.059390 sec
+energy is 91.302504 mJ
+
+Reading simulation time from: MCPAT_l2assoc1_specsjeng.txt
+Reading simulation time from: specsjeng1_l2_assoc/stats.txt
+leakage: 1.153140 W, dynamic: 0.129256 W and runtime: 0.513720 sec
+energy is 658.792473 mJ
+
+Reading simulation time from: MCPAT_l2assoc2_specbzip.txt
+Reading simulation time from: specbzip2_l2_assoc/stats.txt
+leakage: 1.153200 W, dynamic: 0.327038 W and runtime: 0.083951 sec
+energy is 124.267460 mJ
+
+Reading simulation time from: MCPAT_l2assoc2_speclibm.txt
+Reading simulation time from: speclibm2_l2_assoc/stats.txt
+leakage: 1.153200 W, dynamic: 0.178358 W and runtime: 0.174763 sec
+energy is 232.707071 mJ
+
+Reading simulation time from: MCPAT_l2assoc2_specmcf.txt
+Reading simulation time from: specmcf2_l2_assoc/stats.txt
+leakage: 1.153220 W, dynamic: 0.384223 W and runtime: 0.062555 sec
+energy is 96.174747 mJ
+
+Reading simulation time from: MCPAT_l2assoc2_spechmmer.txt
+Reading simulation time from: spechmmer_l2_assoc2/stats.txt
+leakage: 1.153200 W, dynamic: 0.384220 W and runtime: 0.059390 sec
+energy is 91.307374 mJ
+
+Reading simulation time from: MCPAT_l2assoc2_specsjeng.txt
+Reading simulation time from: specsjeng2_l2_assoc/stats.txt
+leakage: 1.153200 W, dynamic: 0.129426 W and runtime: 0.513903 sec
+energy is 659.145349 mJ
+
+Reading simulation time from: MCPAT_l2assoc4_specbzip.txt
+Reading simulation time from: specbzip4_l2_assoc/stats.txt
+leakage: 1.153220 W, dynamic: 0.328424 W and runtime: 0.083616 sec
+energy is 123.889145 mJ
+
+Reading simulation time from: MCPAT_l2assoc4_speclibm.txt
+Reading simulation time from: speclibm4_l2_assoc/stats.txt
+leakage: 1.153220 W, dynamic: 0.178378 W and runtime: 0.174763 sec
+energy is 232.714061 mJ
+
+Reading simulation time from: MCPAT_l2assoc4_specmcf.txt
+Reading simulation time from: specmcf4_l2_assoc/stats.txt
+leakage: 1.153220 W, dynamic: 0.339993 W and runtime: 0.062551 sec
+energy is 93.401966 mJ
+
+Reading simulation time from: MCPAT_l2assoc4_spechmmer.txt
+Reading simulation time from: spechmmer_l2_assoc4/stats.txt
+leakage: 1.153220 W, dynamic: 0.384223 W and runtime: 0.059390 sec
+energy is 91.308740 mJ
+
+Reading simulation time from: MCPAT_l2assoc4_specsjeng.txt
+Reading simulation time from: specsjeng4_l2_assoc/stats.txt
+leakage: 1.153220 W, dynamic: 0.129468 W and runtime: 0.513817 sec
+energy is 659.066900 mJ
+
