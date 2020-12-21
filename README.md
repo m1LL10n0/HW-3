@@ -141,3 +141,10 @@ L1d/i/2 assoc|1|2|4
 ως προς το τέλειο complatibility μονάχα μεταξύ
 των δύο, περιμένουμε πως και αυτό θα μας
 δημιουργήσει αρκετά σφάλματα.
+
+---
+### Sources:
+1. [Leakage (electronics) - Wikipedia](https://en.wikipedia.org/wiki/Leakage_(electronics))
+2. [Processor power dissipation - Wikipedia](https://en.wikipedia.org/wiki/Processor_power_dissipation)
+3. [Dynamic voltage scaling - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_voltage_scaling)
+4. [Dynamic frequency scaling - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_frequency_scaling)
