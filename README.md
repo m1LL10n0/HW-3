@@ -43,7 +43,11 @@
 του προγράμματος καθώς έχουμε σταθερό energy/sec=power. Αν πούμε δηλαδή να κάνουμε πολλαπλασιασμό 
 2 μικρών και 2 μεγαλύτερων πινάκων, το δεύτερο θα πάρει περισσότερη ώρα όμως το είδος των εντολών είναι το ίδιο 
 και ο αριθμός αυτών ανάλογος του μεγέθους και άρα του χρόνου που θα πάρει. Άρα έχουμε σταθερό instructions/time
--> σταθερό energy/sec=power.
+-> σταθερό energy/sec=power.  
+
+Επισημαίνουμε ότι η ανάλυση της συγκεκριμένης εργασίας έγινε θεωρόντας "τέλειο cooling",
+δηλαδή την μη ύπαρξη φαινομένων throttling ή overheating καθώς δεν είναι εύκολο να προσομοιοθούν
+οι επιπτώσεις τους.
 
 
 **2)**
@@ -94,15 +98,26 @@ Apower\*X>Bpower\*Y => 4\*X>40\*Y => Y<X/10 άρα θα πρέπει ο δέυτ
 ![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure5.jpg)
 ![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure6.jpg)
 ![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure7.jpg)
+
+
+Στα παρακάτω γραφήματα βλέπουμε το ίδιο αλλά μόνο για την κατανάλωση ενέργειας:
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure1.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure2.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure3.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure4.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure5.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure6.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure7.jpg)
+
   
-  
-Επίσης, στα παρακάτω γραφήματα βλέπουμε πως αλλαγές στις παραμέτρους αυτές αλλάζουν τα Area, Runtime Dynamic, Subthreshold Leakage και Gate Leakage.  
+Επίσης, στα παρακάτω γραφήματα βλέπουμε πως αλλαγές στις παραμέτρους αυτές αλλάζουν τα Area, Subthreshold Leakage και Gate Leakage.  
 
 ![](https://github.com/pavlidic/HW-3/blob/main/graphs/area.png)
 ![](https://github.com/pavlidic/HW-3/blob/main/graphs/gateL.png)
-![](https://github.com/pavlidic/HW-3/blob/main/graphs/subL.png)
-![](https://github.com/pavlidic/HW-3/blob/main/graphs/dyn.png)
-![](https://github.com/pavlidic/HW-3/blob/main/graphs/pCL2.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/subL.png)  
+
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/pCL2.png)  
+
 ![](https://github.com/pavlidic/HW-3/blob/main/graphs/pAll.png)
 
 όπου έχουμε:
@@ -117,11 +132,17 @@ L1d/i/2 assoc|1|2|4
 
 Από το διάγραμμα αλλαγής του μεγέθους cacheline βγάζουμε το συμπέρασμα ότι μάλλον άξιζαν τελικά οι αλλαγές που προτείναμε στο προηγούμενο εργαστήριο για την βελτιστοποίηση του κόστους\*cpi καθώς βλέπουμε ότι ο χρόνος που κερδίζουμε από τις αλλαγές αυτές είναι τόσο σημαντικός που το EDP κατεβαίνει επίσης σημαντικά παρά το την αύξηση της κατανάλωσης ισχύος. Σχεδόν σε όλες τις άλλες περιπτώσεις όμως βλέπουμε ότι το EDP αυξάνεται με την αύξηση της πολυπλοκότητας του συστήματός μας το οποίο είναι λογικό καθώς δεν είχαμε παρατηρήσει κάποια βελτίωση στους χρόνους των προσομοιώσεων απο το δεύτερο εργαστήριο.
 
-Επίσης, αν δούμε το αρχείο [printOut.csv](https://github.com/pavlidic/HW-3/blob/main/printOut.csv) θα παρατηρήσουμε ότι το μόνο που αλλάζει μεταξύ των διαφορετικών προγραμμάτων για τις ίδιες μεταβλητές είναι το dynamic power ενώ όλα τα άλλα παραμένουν σταθερά, κάτι το οποίο περιμέναμε από το πρώτο βήμα.
+Επίσης, αν δούμε το αρχείο [printOut.csv](https://github.com/pavlidic/HW-3/blob/main/printOut.csv) θα παρατηρήσουμε ότι το μόνο που αλλάζει μεταξύ των διαφορετικών προγραμμάτων για τις ίδιες μεταβλητές είναι το dynamic power ενώ όλα τα άλλα παραμένουν σταθερά, κάτι το οποίο περιμέναμε από το πρώτο βήμα. Για αυτό και τα παραπάνω διαγράμματα δημιουργήθηκαν από τα δεδομένα του specbzip.  
+Παρακάτω παρατίθενται διαγράμματα για το runtime dynamic του καθενός ξεχωριστά μιας και είναι διαφορετικό:
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/dynZip.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/dynLibm.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/dynMcf.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/dynHmmer.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/dynSjeng.png)
+
 
 ---
-- Προσομοιωτές επεξεργαστών οπως ο gem5 και ο mcpat, πραγματοποιουν την προσομοιωση με βαση προκαθορισμενες  σχεδιασεις του υλικου (cache, Alu) οι οποιες όμως όσο και να προσπαθούμε να τελειωποιήσουμε, θα διαφέρουν από την ακριβη σχεδιαση του υλικού  που προσομοιωνεται. Επομένως, αν και ποσοτικά η προσέγγιση αυτων των προσομοιωτων ειναι ακριβής, ποιοτικα υπαρχουν σημαντικες αποκλίσεις, δεδομενου οτι οι ακριβείς υλοποιήσεις δεν ειναι παντα διαθεσιμες, γνωστες ή εύκολο να προσομοιωθουν. Το ίδιο συμβαίνει και σε χαμηλότερο επιπεδο , οπου δεν ειναι δυνατη η ακριβής μοντελοποιηση των τρανζιστορ, καθώς οι ιδιότητες τους εξαρτωνται σημαντικα απο κατασκευαστικες παραμέτρους.
-
+- Προσομοιωτές επεξεργαστών οπως ο gem5 και ο mcpat, πραγματοποιουν την προσομοιωση με βαση προκαθορισμενες  σχεδιασεις του υλικου (cache, Alu) οι οποιες όμως όσο και να προσπαθούμε να τελειωποιήσουμε, θα διαφέρουν από την ακριβη σχεδιαση του υλικού  που προσομοιωνεται. Επομένως, αν και ποσοτικά η προσέγγιση αυτων των προσομοιωτων ειναι ακριβής, ποιοτικα υπαρχουν σημαντικες αποκλίσεις, δεδομενου οτι οι ακριβείς υλοποιήσεις δεν ειναι παντα διαθεσιμες, γνωστες ή εύκολο να προσομοιωθουν. Το ίδιο συμβαίνει και σε χαμηλότερο επιπεδο , οπου δεν ειναι δυνατη η ακριβής μοντελοποιηση των τρανζιστορ, καθώς οι ιδιότητες τους εξαρτωνται σημαντικα απο κατασκευαστικες παραμέτρους. Μάλιστα, σύμφωνα με τα αποτελέσματα του \[6\], βλέπουμε ότι η ακρίβεια του gem5 μπορεί να διαφέρει απο 1.39% έως 17.94% ανάλογα το memory traffic.  
 - Κατά την δημιουργία
 των εξομοιωτών γίνονται αρκετές υποθέσεις
 και αγνοούνται διάφορα φαινόμενα τα
@@ -156,3 +177,4 @@ L1d/i/2 assoc|1|2|4
 3. [Dynamic voltage scaling - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_voltage_scaling)
 4. [Dynamic frequency scaling - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_frequency_scaling)
 5. [Introduction to McPAT](https://www.hpl.hp.com/research/mcpat/micro09.pdf)
+6. [A. Butko, R. Garibotti, L. Ost and G. Sassatelli, "Accuracy evaluation of GEM5 simulator system," 7th International Workshop on Reconfigurable and Communication-Centric Systems-on-Chip (ReCoSoC), York, 2012, pp. 1-7, doi: 10.1109/ReCoSoC.2012.6322869.](https://www.lirmm.fr/~sassate/ADAC/wp-content/uploads/2014/11/Accuracy_evaluation-ReCoSoC-2012.pdf)
