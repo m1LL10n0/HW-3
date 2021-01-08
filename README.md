@@ -43,7 +43,11 @@
 του προγράμματος καθώς έχουμε σταθερό energy/sec=power. Αν πούμε δηλαδή να κάνουμε πολλαπλασιασμό 
 2 μικρών και 2 μεγαλύτερων πινάκων, το δεύτερο θα πάρει περισσότερη ώρα όμως το είδος των εντολών είναι το ίδιο 
 και ο αριθμός αυτών ανάλογος του μεγέθους και άρα του χρόνου που θα πάρει. Άρα έχουμε σταθερό instructions/time
--> σταθερό energy/sec=power.
+-> σταθερό energy/sec=power.  
+
+Επισημαίνουμε ότι η ανάλυση της συγκεκριμένης εργασίας έγινε θεωρόντας "τέλειο cooling",
+δηλαδή την μη ύπαρξη φαινομένων throttling ή overheating καθώς δεν είναι εύκολο να προσομοιοθούν
+οι επιπτώσεις τους.
 
 
 **2)**
@@ -94,7 +98,17 @@ Apower\*X>Bpower\*Y => 4\*X>40\*Y => Y<X/10 άρα θα πρέπει ο δέυτ
 ![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure5.jpg)
 ![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure6.jpg)
 ![](https://github.com/pavlidic/HW-3/blob/main/figures/Figure7.jpg)
-  
+
+
+Στα παρακάτω γραφήματα βλέπουμε το ίδιο αλλά μόνο για την κατανάλωση ενέργειας:
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure1.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure2.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure3.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure4.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure5.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure6.jpg)
+![](https://github.com/pavlidic/HW-3/blob/main/figures/EnergyFigure7.jpg)
+
   
 Επίσης, στα παρακάτω γραφήματα βλέπουμε πως αλλαγές στις παραμέτρους αυτές αλλάζουν τα Area, Runtime Dynamic, Subthreshold Leakage και Gate Leakage.  
 
