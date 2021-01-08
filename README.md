@@ -116,7 +116,8 @@ Apower\*X>Bpower\*Y => 4\*X>40\*Y => Y<X/10 άρα θα πρέπει ο δέυτ
 ![](https://github.com/pavlidic/HW-3/blob/main/graphs/gateL.png)
 ![](https://github.com/pavlidic/HW-3/blob/main/graphs/subL.png)  
 
-![](https://github.com/pavlidic/HW-3/blob/main/graphs/pCL2.png)
+![](https://github.com/pavlidic/HW-3/blob/main/graphs/pCL2.png)  
+
 ![](https://github.com/pavlidic/HW-3/blob/main/graphs/pAll.png)
 
 όπου έχουμε:
